@@ -30,7 +30,8 @@ This project applies the artistic style of one image (e.g., a painting) to the c
 
 ## 📥 Output
 
-- The stylized image will be saved as:
+- The stylized image will be saved as:![Generated Output](stylized_output.png)
+
 - It will be automatically downloaded to your system.
 
 ## 💡 Tips
