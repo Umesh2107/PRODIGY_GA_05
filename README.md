@@ -38,13 +38,4 @@ This project applies the artistic style of one image (e.g., a painting) to the c
 - Avoid spaces in file names. Use names like `photo.jpg` or `style.jpg`
 - Use high-contrast, colorful style images for better results
 
-## 📚 Reference
-
-- TensorFlow Hub Style Transfer Model: [`arbitrary-image-stylization-v1-256`](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2)
-
-## 👤 Author
-
-**ProDigy Infotech Internship Task**  
-Submitted by: `Your Name`  
-Task: 05 – Neural Style Transfer
 
